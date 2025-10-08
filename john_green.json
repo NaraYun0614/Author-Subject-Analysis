@@ -1,0 +1,2468 @@
+{
+    "links": {
+        "self": "/authors/OL5046634A/works.json",
+        "author": "/authors/OL5046634A",
+        "next": "/authors/OL5046634A/works.json?offset=50"
+    },
+    "size": 55,
+    "entries": [
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u05e2\u05e8\u05d9\u05dd \u05e9\u05dc \u05e0\u05d9\u05d9\u05e8",
+            "subjects": [
+                "Missing persons",
+                "Fiction",
+                "Neighbors",
+                "Revenge"
+            ],
+            "subject_places": [
+                "Florida"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL15440010A"
+                    }
+                }
+            ],
+            "key": "/works/OL43795139W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-07-30T07:44:06.651057"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-30T07:44:06.651057"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Nos \u00e9toiles contraires",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL31904489W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-09T21:15:50.983795"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-23T15:33:00.696807"
+            }
+        },
+        {
+            "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.\r\n([source][1])\r\n\r\n\r\n  [1]: http://www.johngreenbooks.com/the-fault-in-our-stars",
+            "links": [
+                {
+                    "title": "The Fault in Our Stars - John Green",
+                    "url": "http://www.johngreenbooks.com/the-fault-in-our-stars",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "The Fault in Our Stars - Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "The Fault in Our Stars Book Review",
+                    "url": "https://www.commonsensemedia.org/book-reviews/the-fault-in-our-stars",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "title": "The Fault in Our Stars",
+            "covers": [
+                7418786,
+                8345124,
+                -1,
+                8665140,
+                10141490,
+                10427985,
+                10544024,
+                10544023,
+                8738774,
+                10897850,
+                10925260,
+                12014795,
+                12550461,
+                12123644,
+                11158450,
+                10791828,
+                10560964,
+                8078024,
+                12758513,
+                10703315,
+                10703314,
+                10864335,
+                12325173,
+                12388032,
+                12565112,
+                13176044,
+                13298496,
+                14057504,
+                12333346
+            ],
+            "subject_places": [
+                "Indianapolis",
+                "Amsterdam",
+                "Anne Frank House",
+                "Bloomington"
+            ],
+            "subjects": [
+                "Young Adult Fiction",
+                "Cancer\u2014Fiction",
+                "Terminally ill\u2014Fiction",
+                "Love\u2014Fiction",
+                "Cancer",
+                "Fiction",
+                "Terminally ill",
+                "Love",
+                "Children's fiction",
+                "Cancer, fiction",
+                "Love, fiction",
+                "Cancer in adolescence",
+                "Terminally ill children",
+                "Young women",
+                "Conduct of life",
+                "Friendship",
+                "Sick",
+                "Physicians",
+                "Youth",
+                "Death",
+                "Canc\u00e9reux",
+                "Romans, nouvelles, etc. pour la jeunesse",
+                "Enfants malades en phase terminale",
+                "Histoires d'amour",
+                "Roman pour la jeunesse",
+                "Chez l'enfant",
+                "Self-help groups",
+                "Man-woman relationships",
+                "Teenage girls",
+                "Spanish language materials",
+                "Relaciones humanas",
+                "Interpersonal relations",
+                "Ficci\u00f3n juvenil",
+                "Cancer in children",
+                "Ni\u00f1os moribundos",
+                "Ni\u00f1os",
+                "C\u00e1ncer",
+                "Relaciones hombre-mujer",
+                "Juvenile fiction",
+                "Ficci\u00f3n",
+                "Patients",
+                "Cancer chez l'adolescent",
+                "Malades en phase terminale",
+                "Amour",
+                "Jeunes femmes",
+                "Morale pratique",
+                "Amiti\u00e9",
+                "M\u00e9decins",
+                "Jeunesse",
+                "Mort",
+                "Love stories",
+                "Juvenile works",
+                "Romance fiction",
+                "Osteosarcoma",
+                "Eye cancer",
+                "Nyt:chapter_books=2012-01-07",
+                "New york times bestseller",
+                "Enfermos terminales",
+                "Ficcion juvenil",
+                "Adolescent",
+                "Romance",
+                "Self-esteem & self-reliance",
+                "Neoplasms",
+                "Social themes",
+                "Amerikanisches englisch",
+                "Friends",
+                "Death & dying",
+                "Large type books",
+                "Sick young adult fiction",
+                "Interpersonal relations--young adult fiction",
+                "Cancer--young adult fiction",
+                "Thyroid neoplasms",
+                "Fictional works",
+                "Psychology",
+                "Attitude to death",
+                "17.91 literature from and for special groups",
+                "18.06 anglo-american literature"
+            ],
+            "subject_people": [
+                "Hazel Grace Lancaster",
+                "Augustus (Gus) Waters",
+                "Isaac (boy with a glass eye)",
+                "Philip (Hazel's oxygen concentrator)"
+            ],
+            "key": "/works/OL16444438W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 66,
+            "revision": 66,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2012-01-04T19:12:10.301596"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-21T12:15:08.850994"
+            }
+        },
+        {
+            "description": {
+                "type": "/type/text",
+                "value": "Sometimes the night of your dreams can be a total nightmare.\r\n\r\nThe prom. It's supposed to be one of the best nights of your life. Or, at least, you're supposed to have a good time. But what if you'd rather be going with your best friend's date than your own? What if a sinister underground society of students has spiked the punch? What if your date turns out to be more of a frog than a prince? Or what if he's (literally) an ape? \r\n\r\nThere are ways you can fight it. You can protest the silliness of the regular prom by hosting a backwards prom - also known as a morp. You can throw a prom for fat girls. You can stay at home to watch old teen movies and get your cute neighbor and his cuter brother to join you. You can dance to your own music.\r\n\r\nHere, 21 of the funniest, most imaginative writers today create their own kind of prom stories. Some are triumphs. Some are disasters. But each one is a night you'll never forget."
+            },
+            "covers": [
+                15089845,
+                8107678,
+                8107677,
+                6972988,
+                1474737,
+                10620340,
+                8465455
+            ],
+            "key": "/works/OL16071058W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1394624A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL36217A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1388564A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1388467A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1391244A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1435778A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1430285A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL2763983A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1389602A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1385298A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL2704227A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1390113A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL2980491A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL508013A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1425557A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1425708A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1424520A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL1400407A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8254656A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL10845157A"
+                    }
+                }
+            ],
+            "title": "21 Proms",
+            "subjects": [
+                "American Short stories",
+                "Juvenile fiction",
+                "Fiction",
+                "Interpersonal relations",
+                "Proms",
+                "High schools",
+                "Schools",
+                "Short stories",
+                "Large type books",
+                "Children's fiction",
+                "Schools, fiction",
+                "Interpersonal relations, fiction",
+                "Dating (social customs), fiction",
+                "High school students",
+                "Dating (Social customs)"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2011-08-12T09:20:46.733740"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-28T08:47:54.826417"
+            }
+        },
+        {
+            "title": "Everything Is Tuberculosis",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL42988223W",
+            "type": {
+                "key": "/type/work"
+            },
+            "description": {
+                "type": "/type/text",
+                "value": "*John Green, the #1 bestselling author of The Anthropocene Reviewed and a passionate advocate for global healthcare reform, tells a deeply human story illuminating the fight against the world\u2019s deadliest disease.*\r\n\r\nTuberculosis has been entwined with humanity for millennia. Once romanticized as a malady of poets, today tuberculosis is a disease of poverty that walks the trails of injustice and inequity we blazed for it.\r\n\r\nIn 2019, John Green met Henry, a young tuberculosis patient at Lakka Government Hospital in Sierra Leone while traveling with Partners in Health. John became fast friends with Henry, a boy with spindly legs and a big, goofy smile. In the years since that first visit to Lakka, Green has become a vocal and dynamic advocate for increased access to treatment and wider awareness of the healthcare inequities that allow this curable, treatable infectious disease to also be the deadliest, killing 1.5 million people every year.\r\n\r\nIn Everything is Tuberculosis, John tells Henry\u2019s story, woven through with the scientific and social histories of how tuberculosis has shaped our world and how our choices will shape the future of tuberculosis."
+            },
+            "links": [
+                {
+                    "title": "Goodreads",
+                    "url": "https://www.goodreads.com/book/show/220341389-everything-is-tuberculosis",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "subtitle": "The History and Persistence of Our Deadliest Infection",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-25T03:59:36.311302"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-25T04:01:19.097339"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Noches blancas",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11168918A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11076873A"
+                    }
+                }
+            ],
+            "covers": [
+                14060642
+            ],
+            "key": "/works/OL35082070W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-16T16:43:15.854424"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T02:30:05.715366"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Noches blancas",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11168918A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11076873A"
+                    }
+                }
+            ],
+            "covers": [
+                14060643
+            ],
+            "key": "/works/OL35082069W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-16T16:43:15.851367"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T02:30:05.061701"
+            }
+        },
+        {
+            "description": "Friends? Romans? Countrymen? You never know whom you'll have to impress at your next corporate shindig or keg party.   Whatever the target audience, mental_floss knows staring facedown into the punch bowl isn't the trick. In fact, that's exactly why we're handing you Cocktail Party Cheat Sheets -- a totally effective, foolproof guide to starting and sustaining conversations on every topic under the sun. Want to wax wise about barbarians, socialist theory, and jazz musicians? What about Keynesian economics, the Dead Sea Scrolls, and James Joyce's Ulysses? Well, it's all right here in front of you.  We've jam-packed this book with jaw-dropping facts and hysterical anecdotes that are sure to please. So go ahead and stock up for your next soiree. We're not guaranteeing it will make you the most knowledgeable person in the room . . . just the most interesting.",
+            "title": "Mental Floss",
+            "covers": [
+                38933
+            ],
+            "first_publish_date": "July 3, 2006",
+            "key": "/works/OL276049W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL2630521A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL6818279A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2629927A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Humor (Nonfiction)",
+                "Nonfiction",
+                "Games",
+                "Miscellanea",
+                "Handbooks, vade-mecums",
+                "Curiosities and wonders",
+                "Popular culture",
+                "Genius",
+                "Gifted persons",
+                "Biography",
+                "Humor, general"
+            ],
+            "latest_revision": 16,
+            "revision": 16,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-25T09:41:27.933522"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T13:23:50.102719"
+            }
+        },
+        {
+            "title": "John Green",
+            "key": "/works/OL21877788W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                14101553
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-08-31T19:58:58.075198"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-08-17T13:18:00.712606"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Looking For Alaska",
+            "key": "/works/OL34636504W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subjects": [
+                "Boarding schools",
+                "Boarding schools Alabama Fiction",
+                "Boarding schools Juvenile fiction",
+                "Death Juvenile fiction",
+                "Fiction",
+                "Interpersonal relations Juvenile fiction",
+                "Schools Juvenile fiction",
+                "Young Adult Fiction"
+            ],
+            "subject_places": [
+                "Alabama",
+                "Florida"
+            ],
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-02-28T04:12:30.413416"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-06-30T21:03:34.353552"
+            }
+        },
+        {
+            "title": "The anthropocene reviewed",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL37804087W",
+            "type": {
+                "key": "/type/work"
+            },
+            "subtitle": "Essays on a Human-Centered Planet",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-02-08T12:29:08.700508"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-02-08T12:31:59.249697"
+            }
+        },
+        {
+            "covers": [
+                14559681
+            ],
+            "first_publish_date": "September 21, 2006",
+            "key": "/works/OL2130549W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "subjects": [
+                "Interpersonal relations, fiction",
+                "Self-perception, fiction",
+                "Young Adult",
+                "Romance",
+                "Juvenile fiction",
+                "Fiction",
+                "Self-perception",
+                "Interpersonal relations",
+                "Mathematics",
+                "Man-woman relationships",
+                "Young adult fiction",
+                "Humorous",
+                "Social Themes",
+                "Friendship",
+                "Dating & Sex",
+                "Children's fiction",
+                "nyt:young-adult=2013-01-20",
+                "New York Times bestseller",
+                "Relaciones hombre-mujer",
+                "Matem\u00e1ticas",
+                "Relaciones humanas",
+                "Ficci\u00f3n juvenil",
+                "Ficcion juvenil",
+                "Spanish language materials",
+                "Autopercepci\u00f3n",
+                "Math\u00e9matiques",
+                "Romans, nouvelles",
+                "Adolescents surdou\u00e9s",
+                "Amours",
+                "Relations humaines",
+                "Perception de soi",
+                "Voyages",
+                "Roman pour jeunes adultes",
+                "Adolescence",
+                "Humour",
+                "Amiti\u00e9",
+                "American literature"
+            ],
+            "title": "An Abundance of Katherines",
+            "type": {
+                "key": "/type/work"
+            },
+            "description": "Katherine V thought boys were gross\r\nKatherine X just wanted to be friends\r\nKatherine XVIII dumped him in an e-mail\r\nK-19 broke his heart\r\n\r\nWhen it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact.\r\n\r\nOn a road trip miles from home, this anagram-happy, washed-up child prodigy has ten thousand dollars in his pocket, a bloodthirsty feral hog on his trail, and an overweight, Judge Judy-loving best friend riding shotgun--but no Katherines. Colin is on a mission to prove The Theorem of Underlying Katherine Predictability, which he hopes will predict the future of any relationship, avenge Dumpees everywhere, and finally win him the girl.\r\n\r\nLove, friendship, and a dead Austro-Hungarian archduke add up to surprising and heart-changing conclusions in this ingeniously layered comic novel about reinventing oneself.",
+            "latest_revision": 24,
+            "revision": 24,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:58:12.816425"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-12-24T15:30:24.425668"
+            }
+        },
+        {
+            "description": "**SIXTEEN-YEAR-OLD AZA NEVER INTENDED** to pursue the mystery of fugitive billionaire Russell Pickett, but there's a hundred-thousand-dollar reward at sake and  her Best and Most Fearless Friend, Daisy, is eager to investigate. So together, they navigate the short distance and broad divides that separate them from Russell Pickett's son, Davis.\r\n\r\nAza is trying. She is trying to be a good daughter, a good friend, a good student, and maybe even a good detective, while also living within the ever-tightening spiral of her own thoughts.\r\n\r\nIn his long-awaited return, John Green, the acclaimed, award-winning author of *Looking for Alaska* and *The Fault in Our Stars*, shares Aza's story with shattering, unflinching clarity in this brilliant novel of love, resilience, and the power of lifelong friendship.\r\n\r\nThis description comes from the publisher.",
+            "covers": [
+                8283871,
+                8184977,
+                8815098,
+                9255739,
+                10252506,
+                10286207,
+                10537213,
+                11168209,
+                11126565,
+                12325565
+            ],
+            "key": "/works/OL17842319W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "title": "Turtles All the Way Down",
+            "subjects": [
+                "Anxiety disorders",
+                "Young adult fiction",
+                "Teenage girls",
+                "Juvenile fiction",
+                "Fiction",
+                "Obsessive-compulsive disorder",
+                "Missing persons",
+                "Friendship",
+                "nyt:young-adult-hardcover=2017-10-29",
+                "New York Times bestseller",
+                "Children's fiction",
+                "Missing persons, fiction",
+                "Friendship, fiction",
+                "Mental illness, fiction",
+                "YOUNG ADULT FICTION / Coming of Age",
+                "Mental illness",
+                "YOUNG ADULT FICTION / Social Themes / Mental Illness",
+                "YOUNG ADULT FICTION / Social Themes / Friendship",
+                "nyt:young-adult-paperback-monthly=2019-10-13",
+                "Teenage girls -- Juvenile fiction",
+                "Obsessive-compulsive disorder -- Juvenile fiction",
+                "Anxiety disorders -- Juvenile fiction",
+                "Friendship -- Juvenile fiction",
+                "Missing persons -- Juvenile fiction",
+                "Obsessive-compulsive disorder -- Fiction",
+                "Friendship -- Fiction",
+                "Missing persons -- Fiction",
+                "YOUNG ADULT FICTION -- Coming of Age",
+                "YOUNG ADULT FICTION -- Social Themes -- Friendship",
+                "YOUNG ADULT FICTION -- Social Themes -- Mental Illness",
+                "Juvenile works",
+                "Young adult works",
+                "Teenage girls -- Fiction",
+                "Mental illness -- Fiction",
+                "Mental illness -- Juvenile fiction",
+                "Anxiety disorders -- Fiction",
+                "Spanish language materials",
+                "Adolescentes -- Romans, nouvelles, etc. pour la jeunesse",
+                "Personnes disparues -- Romans, nouvelles, etc. pour la jeunesse",
+                "Amitie\u0301 -- Romans, nouvelles, etc. pour la jeunesse",
+                "Maladies mentales -- Romans, nouvelles, etc. pour la jeunesse",
+                "Ne\u0301vroses obsessionnelles -- Romans, nouvelles, etc",
+                "Troubles anxieux -- Romans, nouvelles, etc",
+                "Roman pour jeunes adultes",
+                "Amistad -- Novela juvenil",
+                "Muchachas adolescentes -- Novela juvenil",
+                "Personas desaparecidas -- Novela juvenil",
+                "Transtorno obsesiveo compulsivo -- Novela juvenil",
+                "Materiales en espan\u0303ol",
+                "Enfermedad mental -- Ficcio\u0301n juvenil",
+                "Indianapolis (Ind.) -- Fiction",
+                "Indiana -- Indianapolis"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2018-02-19T22:18:59.870787"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-02-07T13:18:13.565696"
+            }
+        },
+        {
+            "first_publish_date": "July 3, 2006",
+            "key": "/works/OL265426W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "excerpts": [
+                {
+                    "excerpt": "THE WEEK BEFORE I left my family and Florida and the rest of my minor life to go to boarding school in Alabama, my mother insisted on throwing me a going-away party."
+                }
+            ],
+            "title": "Looking for Alaska",
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "THE WEEK BEFORE I left my family and Florida and the rest of my minor life to go to boarding school in Alabama, my mother insisted on throwing me a going-away party."
+            },
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction",
+                "Boarding schools",
+                "Death",
+                "Grief",
+                "Interpersonal relations",
+                "Traffic accidents",
+                "Young adult fiction",
+                "Schools",
+                "Juvenile Fiction",
+                "Death, Grief, Bereavement",
+                "Social Themes",
+                "Private schools",
+                "Drugs, Alcohol, Substance Abuse",
+                "Dating & Sex",
+                "Children's fiction",
+                "Interpersonal relations, fiction",
+                "Boarding schools, fiction",
+                "Death, fiction",
+                "Alabama, fiction",
+                "Michael L. Printz Award",
+                "Ficci\u00f3n juvenil",
+                "Relaciones humanas",
+                "Escuelas",
+                "Muerte",
+                "Internados (Escuelas)",
+                "Ficcion juvenil",
+                "Large type books",
+                "JUVENILE FICTION / Social Issues / Adolescence",
+                "nyt:paperback-books=2012-07-29",
+                "New York Times bestseller",
+                "YOUNG ADULT FICTION / Social Themes / Death & Dying",
+                "YOUNG ADULT FICTION / Social Themes / Drugs, Alcohol, Substance Abuse",
+                "YOUNG ADULT FICTION / Social Themes / Dating & Sex",
+                "collectionID:EanesChallenge",
+                "Relations humaines",
+                "Romans, nouvelles",
+                "Internats",
+                "Mort",
+                "Vie",
+                "Philosophie",
+                "Roman pour jeunes adultes",
+                "collectionID:ConroeChallenge",
+                "collectionID:bannedbooks"
+            ],
+            "covers": [
+                12614602,
+                -1
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Before. Miles \u201cPudge\u201d Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave \u201cthe Great Perhaps\u201d even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . \r\nAfter. Nothing is ever the same."
+            },
+            "lc_classifications": [
+                "PZ7.G8233 Lo 2005"
+            ],
+            "dewey_number": [
+                "[Fic]"
+            ],
+            "latest_revision": 27,
+            "revision": 27,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-10-24T13:14:43.487239"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-07-01T19:22:51.170720"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "O Teorema Katherine",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27735064W",
+            "covers": [
+                12919207
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Se o assunto \u00e9 relacionamento, o tipo de garota de Colin Singleton tem nome: Katherine. E, em se tratando de Colin e Katherines, o desfecho \u00e9 sempre o mesmo: ele leva o fora. J\u00e1 aconteceu muito. Dezenove vezes, para ser exato.\r\n\r\nAp\u00f3s o mais recente e traum\u00e1tico p\u00e9 na bunda, o Colin que s\u00f3 namora Katherines resolve cair na estrada. Dirigindo o Rabec\u00e3o de Sat\u00e3, com seu caderninho de anota\u00e7\u00f5es no bolso e o melhor amigo no carona, o ex-garoto prod\u00edgio, viciado em anagramas e PhD em levar o fora, descobre sua verdadeira miss\u00e3o: elaborar e comprovar o Teorema Fundamental da Previsibilidade das Katherines, que tornar\u00e1 poss\u00edvel antever, atrav\u00e9s da linguagem universal da matem\u00e1tica, o desfecho de qualquer relacionamento antes mesmo que as duas pessoas se conhe\u00e7am.\r\n\r\nUma descoberta que vai entrar para a hist\u00f3ria, vai vingar s\u00e9culos de injusta vantagem entre Terminantes e Terminados e, enfim, elevar\u00e1 Colin Singleton diretamente ao distinto posto de g\u00eanio da humanidade. Tamb\u00e9m, \u00e9 claro, vai ajud\u00e1-lo a reconquistar sua garota. Ou, pelo menos, \u00e9 isso o que ele espera."
+            },
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-07T13:11:50.193257"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-03-03T01:06:20.923532"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Penguin Minis",
+            "subjects": [
+                "Children's fiction",
+                "Missing persons, fiction",
+                "Mystery and detective stories",
+                "Florida, fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28679035W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-08-18T09:52:11.033979"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-07-08T07:11:15.203140"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Paper Towns",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL8006421A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29246980W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-29T16:46:07.573051"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-07-08T07:11:00.406253"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Fault in Our Stars",
+            "subjects": [
+                "Children's fiction",
+                "Cancer, fiction",
+                "Love, fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28275547W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-17T20:33:39.229133"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-07-08T07:10:16.449674"
+            }
+        },
+        {
+            "title": "Antropocen",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL35659928W",
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-06-01T18:01:02.279644"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-06-01T18:14:06.880883"
+            }
+        },
+        {
+            "title": "Noches blancas",
+            "key": "/works/OL17317118W",
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                7395793
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11168918A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9084037A"
+                    }
+                }
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2016-02-10T12:38:39.280606"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:23.724162"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Papierowe miasta",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "covers": [
+                13950514
+            ],
+            "key": "/works/OL34994367W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-13T22:33:57.747773"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:23.196743"
+            }
+        },
+        {
+            "description": {
+                "type": "/type/text",
+                "value": "The Anthropocene is the current geologic age, in which humans have profoundly reshaped the planet and its biodiversity. In this remarkable symphony of essays adapted and expanded from his groundbreaking podcast, bestselling author John Green reviews different facets of the human-centered planet on a five-star scale\u2014from the QWERTY keyboard and sunsets to Canada geese and Penguins of Madagascar.\r\n\r\nFunny, complex, and rich with detail, the reviews chart the contradictions of contemporary humanity. As a species, we are both far too powerful and not nearly powerful enough, a paradox that came into sharp focus as we faced a global pandemic that both separated us and bound us together.\r\n\r\nJohn Green\u2019s gift for storytelling shines throughout this masterful collection. The Anthropocene Reviewed is a open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world."
+            },
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Anthropocene Reviewed",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL34409227W",
+            "covers": [
+                13534512
+            ],
+            "subject_people": [
+                "John Green"
+            ],
+            "subjects": [
+                "Biography & Autobiography",
+                "SOCIAL SCIENCE",
+                "Personal Memoirs",
+                "nyt:paperback-nonfiction=2023-04-09",
+                "New York Times bestseller"
+            ],
+            "latest_revision": 5,
+            "revision": 5,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-02-17T11:03:31.642153"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:22.329181"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "El teorema Katherine",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9940899A"
+                    }
+                }
+            ],
+            "covers": [
+                14060845
+            ],
+            "key": "/works/OL35082197W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-16T16:47:31.392160"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:21.886732"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Flocons d'amour",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL11076873A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7835119A"
+                    }
+                }
+            ],
+            "covers": [
+                14025781
+            ],
+            "key": "/works/OL35054740W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-15T19:53:47.270766"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:19.435745"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Buscando a Alaska",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL12686689A"
+                    }
+                }
+            ],
+            "covers": [
+                14061157
+            ],
+            "key": "/works/OL35082377W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-16T16:55:29.610702"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:18.994636"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Een weeffout in onze sterren",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "covers": [
+                13611782
+            ],
+            "key": "/works/OL34833863W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-18T12:50:46.674478"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:18.546909"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Een weeffout in onze sterren",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "covers": [
+                13611781
+            ],
+            "key": "/works/OL34833862W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-18T12:50:46.645233"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:17.332559"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Een weeffout in onze sterren",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "covers": [
+                13611780
+            ],
+            "key": "/works/OL34833864W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-18T12:50:46.675880"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:16.869119"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Buscant l'Alaska",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9169368A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9084897A"
+                    }
+                }
+            ],
+            "covers": [
+                13696042
+            ],
+            "key": "/works/OL34893353W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-20T06:13:58.587993"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:16.089471"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Ciutats de paper",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7938720A"
+                    }
+                }
+            ],
+            "covers": [
+                13524712
+            ],
+            "key": "/works/OL34780547W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-16T19:37:11.522748"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:15.113041"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "PAPER TOWNS EPZ EDITON",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL34572848W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-02-27T23:05:34.215751"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:13.342656"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Will et Will (French Edition)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL33795056W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-01-14T14:30:16.265920"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:12.605924"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Will et Will - format nouveaute (French Edition)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL33714865W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-01-14T06:08:08.218504"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:10.729531"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Le th\u00e9or\u00e8me des Katherine",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL33674887W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-01-14T01:56:45.917345"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:10.044716"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "De 19 ori Katherine (Romanian Edition)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL31304429W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-05T04:02:37.030172"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:09.612403"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Will Grayson, Will Grayson",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL10845157A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7340421A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7325688A"
+                    }
+                }
+            ],
+            "key": "/works/OL30165839W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-11-25T21:15:23.645740"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:09.138766"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Schildpadden tot in het oneindige",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL31276332W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-04T20:44:00.969686"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:07.689741"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "BLOOMSBURY Paper Towns",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "covers": [
+                13112593
+            ],
+            "key": "/works/OL33009878W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-23T07:02:03.634205"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:07.211342"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Will et will",
+            "key": "/works/OL31821625W",
+            "covers": [
+                13221690
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL10845157A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9218534A"
+                    }
+                }
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-09T07:48:51.697123"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:06.703323"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Tu mundo y el m\u00edo",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9940899A"
+                    }
+                }
+            ],
+            "covers": [
+                13491058
+            ],
+            "key": "/works/OL34761577W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-16T06:04:20.841209"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:05.736036"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "No est\u00e0 escrit a les estrelles",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7980821A"
+                    }
+                }
+            ],
+            "covers": [
+                13523699
+            ],
+            "key": "/works/OL34780012W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-16T19:18:01.823110"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:05.012638"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "El teorema Katherine",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9940899A"
+                    }
+                }
+            ],
+            "covers": [
+                14060844
+            ],
+            "key": "/works/OL35082198W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-16T16:47:31.397886"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:03.608862"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Buscando a Alaska",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL12686688A"
+                    }
+                }
+            ],
+            "covers": [
+                14061156
+            ],
+            "key": "/works/OL35082378W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-16T16:55:29.622116"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:02.419029"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Will Grayson, Will Grayson",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "covers": [
+                13658431
+            ],
+            "key": "/works/OL34867245W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-19T11:11:42.765922"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-05-10T09:13:01.651084"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Ashmat ha-kokhavim",
+            "subjects": [
+                "Cancer in adolescence",
+                "Juvenile fiction",
+                "Terminally ill"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "key": "/works/OL32237760W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-13T21:34:17.871282"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-12-13T21:34:17.871282"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Sayonara o matsu futari no tame ni",
+            "subjects": [
+                "Cancer in adolescence",
+                "Fiction",
+                "Terminally ill",
+                "Terminally ill children",
+                "Young women",
+                "Conduct of life",
+                "Friendship",
+                "Sick",
+                "Physicians",
+                "Youth",
+                "Death",
+                "Cancer chez l'adolescent",
+                "Romans, nouvelles",
+                "Malades en phase terminale",
+                "Enfants malades en phase terminale",
+                "Jeunes femmes",
+                "Morale pratique",
+                "Amiti\u00e9",
+                "M\u00e9decins",
+                "Jeunesse",
+                "Mort"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    }
+                }
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Sixteen-year-old Hazel, a stage IV thyroid cancer patient, has accepted her terminal diagnosis until a chance meeting with a boy at cancer support group forces her to reexamine her perspective on love, loss, and life. Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten."
+            },
+            "covers": [
+                13012724
+            ],
+            "key": "/works/OL31188087W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-03T18:20:46.083568"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-12-03T18:20:46.083568"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Let It Snow",
+            "subjects": [
+                "Children's stories",
+                "Christmas, fiction",
+                "Interpersonal relations, fiction",
+                "Dating (social customs), fiction",
+                "Short stories",
+                "Storms, fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1388341A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1390573A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28260622W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-17T17:23:31.081090"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-11-08T01:26:54.476600"
+            }
+        },
+        {
+            "description": "In three intertwining short stories, several high school couples experience the trials and tribulations along with the joys of romance during a Christmas Eve snowstorm in a small town.\r\n\r\nHoliday tales of love and romance.",
+            "covers": [
+                6961682,
+                7082036,
+                12624066,
+                9255737,
+                12325708,
+                12810096
+            ],
+            "key": "/works/OL16071235W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1390573A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1388341A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL10497989A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "title": "Let it snow",
+            "subjects": [
+                "Love",
+                "Teenage boy/girl relations",
+                "American Short stories",
+                "Juvenile fiction",
+                "Storms",
+                "Christmas stories",
+                "Fiction",
+                "Interpersonal relations",
+                "Dating (Social customs)",
+                "Short stories",
+                "Christmas",
+                "Love stories",
+                "Children's stories",
+                "Christmas, fiction",
+                "Interpersonal relations, fiction",
+                "Dating (social customs), fiction",
+                "Storms, fiction",
+                "nyt:paperback-books=2009-12-06",
+                "New York Times bestseller",
+                "nyt:young-adult-paperback-monthly=2020-01-12",
+                "High school students",
+                "American Romance fiction",
+                "American Young adult fiction",
+                "nyt:young-adult=2014-11-30",
+                "Holidays",
+                "Spanish language materials",
+                "Love & Romance",
+                "YOUNG ADULT FICTION",
+                "Romance",
+                "Contemporary",
+                "Noviazgo",
+                "Novela",
+                "D?as festivos",
+                "Relaciones interpersonales",
+                "Tormentas",
+                "D\u00edas festivos",
+                "Novela juvenil",
+                "Relaciones humanas",
+                "Tempestades",
+                "K\u00e4rlek"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "location": "/works/OL21295406W",
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2011-08-12T09:37:07.069606"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-11-08T01:21:48.097354"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Kar Taneleri",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1388341A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1390573A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "covers": [
+                12123882
+            ],
+            "key": "/works/OL26164813W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-10-19T12:05:29.879649"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-11-08T01:05:22.240342"
+            }
+        },
+        {
+            "description": "One cold night, in a most unlikely corner of Chicago, two teens\u2014both named Will Grayson\u2014are about to cross paths. As their worlds collide and intertwine, the Will Graysons find their lives going in new and unexpected directions, building toward romantic turns-of-heart and the epic production of history\u2019s most fabulous high school musical.Hilarious, poignant, and deeply insightful, John Green and David Levithan\u2019s collaborative novel is brimming with a double helping of the heart and humor that have won both them legions of faithful fans.",
+            "title": "Will Grayson, Will Grayson",
+            "covers": [
+                12358776,
+                6306334,
+                8475654,
+                9254886,
+                10169957,
+                9122947,
+                10851684,
+                10585561,
+                10585562
+            ],
+            "subject_places": [
+                "Chicago (Ill.)"
+            ],
+            "subjects": [
+                "Theater",
+                "Juvenile Fiction",
+                "Interpersonal relations",
+                "Fiction",
+                "Homosexuality",
+                "Dating (Social customs)",
+                "Overweight persons",
+                "Names, Personal",
+                "Personal Names",
+                "Overweight teenagers",
+                "Musical theater",
+                "Gay teenagers",
+                "Obesity",
+                "Musicales (Teatro)",
+                "Hombres gays",
+                "Ficci\u00f3n juvenil",
+                "Nombres personales",
+                "Citas amorosas",
+                "Adolescentes",
+                "Spanish language materials",
+                "Ungdomar",
+                "Musikaler",
+                "V\u00e4nskap",
+                "Homosexualitet",
+                "K\u00e4rlek",
+                "Slumpen",
+                "Skolan",
+                "Pojkar",
+                "Olycklig k\u00e4rlek",
+                "Children's fiction",
+                "Homosexuality, fiction",
+                "Names, personal, fiction",
+                "Dating (social customs), fiction",
+                "Chicago (ill.), fiction",
+                "Theater, fiction",
+                "Interpersonal relations, fiction",
+                "LGBTQ young adult",
+                "Stonewall Book Awards",
+                "nyt:chapter-books=2010-04-25",
+                "New York Times bestseller",
+                "High schools",
+                "High school students"
+            ],
+            "subject_people": [
+                "Will Grayson",
+                "Tiny Cooper"
+            ],
+            "key": "/works/OL11822691W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL5046634A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1394624A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 32,
+            "revision": 32,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-11T05:27:37.292828"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-31T05:20:29.816302"
+            }
+        }
+    ]
+}

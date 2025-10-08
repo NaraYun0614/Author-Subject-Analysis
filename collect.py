@@ -6,7 +6,8 @@ script_path = os.path.dirname(__file__)
 raw_path = os.path.join(script_path)
 
 def main():
-    author_name = r"octavia%20butler"
+    # author_name = r"octavia%20butler"
+    author_name = r"john%20green"
 
     # get author key
     query_url = "https://openlibrary.org/search/authors.json?q=" + author_name
@@ -29,6 +30,9 @@ def main():
         json.dump(books_data, f, indent=4)
 
     # every book has a subjects dict, counting topics and subjects, compare counts? 
+    # octavia butler = OL30802A, john green = OL5046634A
+
+    
 
 if __name__ == "__main__":
     main()
