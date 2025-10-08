@@ -20,11 +20,14 @@ def main():
             continue
     print(set(john_subjects))
 
+    cleaned_subjects = [item.strip().lower() for item in john_subjects]
+    john_subjects = cleaned_subjects
+
     json_output = json.dumps(list(set(john_subjects)), indent=4)
     print(json_output)
 
     #octavia_data = set(octavia_subjects).json()
-    with open(os.path.join(raw_path, 'john_theme.json'), "w") as f:
+    with open(os.path.join(raw_path, 'john_theme_1.json'), "w") as f:
         json.dump(json_output, f, indent=4)
        
     
